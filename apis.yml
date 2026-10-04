@@ -39,7 +39,6 @@ apis:
   - name: Foreca
     description: "Weather"
     humanURL: https://developer.foreca.com
-    baseURL: https://developer.foreca.com
     tags:
       - Weather
     properties:
